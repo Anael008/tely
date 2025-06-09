@@ -1,0 +1,17 @@
+.woocommerce-error, .woocommerce-info, .woocommerce-message {
+	padding: 1em 2em 1em 3.5em;
+	margin: 0 0 2em;
+	position: relative;
+	background-color: #f7f6f7;
+	color: #515151!important;
+	list-style: none outside;
+	width: auto;
+	word-wrap: break-word;
+	text-align: center;
+	z-index: 21;
+}
+
+.woocommerce-message a.button {
+	margin: 0 10px 0 0;
+	display: inline-block;
+}

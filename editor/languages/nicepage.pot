@@ -1,0 +1,670 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nicepage\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-23 16:04:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: editor\admin.php:119
+#: editor\admin.php:589
+#: editor\admin.php:2008
+msgid "Turn to Nicepage"
+msgstr ""
+
+#: editor\admin.php:123
+#: editor\admin.php:2010
+msgid "Edit with Nicepage"
+msgstr ""
+
+#: editor\admin.php:126
+msgid "The page has unpublished changes."
+msgstr ""
+
+#: editor\admin.php:126
+msgid "Click \"
+msgstr ""
+
+#: editor\admin.php:141
+#: editor\admin.php:141
+#: editor\admin.php:142
+#: editor\admin.php:142
+#: editor\admin.php:213
+msgid "Nicepage"
+msgstr ""
+
+#: editor\admin.php:144
+#: editor\admin.php:144
+#: editor\admin.php:180
+#: importer\import.php:8
+msgid "Import"
+msgstr ""
+
+#: editor\admin.php:145
+#: editor\admin.php:145
+#: editor\admin.php:190
+msgid "Plugin Wizard"
+msgstr ""
+
+#: editor\admin.php:147
+#: editor\admin.php:147
+#: editor\admin.php:192
+#: includes\class-np-role-manager.php:81
+msgid "Role Manager"
+msgstr ""
+
+#: editor\admin.php:149
+#: editor\admin.php:149
+#: editor\admin.php:178
+msgid "Settings"
+msgstr ""
+
+#: editor\admin.php:179
+msgid "New Page"
+msgstr ""
+
+#: editor\admin.php:182
+msgid "Colors"
+msgstr ""
+
+#: editor\admin.php:183
+msgid "Fonts"
+msgstr ""
+
+#: editor\admin.php:184
+msgid "Typography"
+msgstr ""
+
+#: editor\admin.php:185
+msgid "Headings and Text"
+msgstr ""
+
+#: editor\admin.php:186
+msgid "Header"
+msgstr ""
+
+#: editor\admin.php:187
+msgid "Menu Style"
+msgstr ""
+
+#: editor\admin.php:188
+msgid "Footer"
+msgstr ""
+
+#: editor\admin.php:215
+msgid "Colors and Fonts"
+msgstr ""
+
+#: editor\admin.php:987
+#: editor\admin.php:992
+#: processors\class-np-data-replacer.php:1207
+#: processors\class-np-data-replacer.php:1266
+msgid ", "
+msgstr ""
+
+#: editor\admin.php:1001
+msgid "Read more"
+msgstr ""
+
+#: editor\admin.php:1006
+#: processors\class-np-data-replacer.php:1226
+msgid "Comments (%d)"
+msgstr ""
+
+#: editor\admin.php:1078
+#: processors\replacer\Products\ProductItem.php:365
+#: processors\replacer\Products\Woocommerce\Model\class-np-data-product.php:421
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:345
+msgid "%s"
+msgstr ""
+
+#: importer\class-np-import-notice.php:13
+msgid "<strong>There is content included to Nicepage plugin.</strong><br>Would you like to install it?"
+msgstr ""
+
+#: importer\class-np-import-notice.php:16
+msgid "Import content"
+msgstr ""
+
+#: importer\class-np-import-notice.php:17
+msgid "Replace previously imported content"
+msgstr ""
+
+#: importer\class-np-import-notice.php:18
+msgid "Hide notice"
+msgstr ""
+
+#: importer\class-np-import-notice.php:49
+msgid "Content was successfully imported."
+msgstr ""
+
+#: importer\class-np-import-notice.php:50
+msgid "An error occurred while importing."
+msgstr ""
+
+#: importer\import.php:14
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr ""
+
+#: importer\import.php:20
+msgid "Upload your (.zip) file and we&#8217;ll import the pages and images into this site."
+msgstr ""
+
+#: importer\import.php:23
+msgid "Choose a (.zip) file from your computer, then click Upload file and import."
+msgstr ""
+
+#: importer\import.php:34
+msgid "Upload file and import"
+msgstr ""
+
+#: importer\wizard.php:46
+msgid "Content has already been imported. Please skip this step"
+msgstr ""
+
+#: importer\wizard.php:51
+msgid "Nicepage plugin has Pages, Images, Menu, Header, and Footer. </br></br>Do you want to import the Content?"
+msgstr ""
+
+#: importer\wizard.php:56
+msgid "Import Sidebars Content"
+msgstr ""
+
+#: importer\wizard.php:61
+msgid "Import Products Content to Woocommerce"
+msgstr ""
+
+#: importer\wizard.php:74
+msgid "Choose the source for your site\"
+msgstr ""
+
+#: importer\wizard.php:77
+msgid "Theme"
+msgstr ""
+
+#: importer\wizard.php:78
+msgid "Plugin"
+msgstr ""
+
+#: importer\wizard.php:82
+msgid "You can change it later in the <a href="
+msgstr ""
+
+#: importer\wizard.php:95
+msgid "Congratulations! The Nicepage plugin has been activated and your website is ready."
+msgstr ""
+
+#: importer\wizard.php:113
+msgid "Your website is ready!"
+msgstr ""
+
+#: importer\wizard.php:122
+msgid "Select Site Style"
+msgstr ""
+
+#: importer\wizard.php:126
+msgid "Apply"
+msgstr ""
+
+#: importer\wizard.php:137
+#: importer\wizard.php:142
+msgid "Import Content"
+msgstr ""
+
+#: importer\wizard.php:143
+msgid "Replace previously imported Content"
+msgstr ""
+
+#: importer\wizard.php:222
+msgid "Skip"
+msgstr ""
+
+#: includes\class-np-forms.php:262
+msgid "Header Nicepage Form: %s"
+msgstr ""
+
+#: includes\class-np-forms.php:264
+msgid "Footer Nicepage Form: %s"
+msgstr ""
+
+#: includes\class-np-forms.php:266
+msgid "Dialog Nicepage Form: %s"
+msgstr ""
+
+#: includes\class-np-forms.php:268
+msgid "Nicepage Form: %s"
+msgstr ""
+
+#: includes\class-np-forms.php:295
+msgid "feedback"
+msgstr ""
+
+#: includes\class-np-role-manager.php:98
+#: includes\class-np-settings.php:131
+msgid "Settings saved."
+msgstr ""
+
+#: includes\class-np-role-manager.php:104
+#: includes\class-np-settings.php:137
+msgid "Settings restored."
+msgstr ""
+
+#: includes\class-np-role-manager.php:110
+#: includes\class-np-settings.php:143
+msgid "Used when <strong>"
+msgstr ""
+
+#: includes\class-np-role-manager.php:174
+#: includes\class-np-settings.php:207
+msgid "Save Changes"
+msgstr ""
+
+#: includes\class-np-role-manager.php:175
+#: includes\class-np-settings.php:208
+msgid "Reset to Default"
+msgstr ""
+
+#: includes\class-np-settings.php:15
+msgid "New Nicepage page"
+msgstr ""
+
+#: includes\class-np-settings.php:20
+msgid "Site Style Source"
+msgstr ""
+
+#: includes\class-np-settings.php:31
+msgid "Use jQuery from plugin"
+msgstr ""
+
+#: includes\class-np-settings.php:36
+msgid "Auto Responsive"
+msgstr ""
+
+#: includes\class-np-settings.php:43
+msgid "Default Page Template"
+msgstr ""
+
+#: includes\class-np-settings.php:54
+msgid "Autosave changes"
+msgstr ""
+
+#: includes\class-np-settings.php:110
+msgid "Nicepage Settings"
+msgstr ""
+
+#: includes\controls\login\login.php:7
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:68
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:290
+msgid "Log in"
+msgstr ""
+
+#: includes\controls\login\login.php:10
+msgid "Log out"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:38
+msgid "%1$s review for %2$s"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:41
+msgid "Reviews"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:68
+msgid "There are no reviews yet."
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:79
+msgid "Add a review"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:79
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:81
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:85
+msgid "Submit"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:94
+msgid "Name"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:100
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:168
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:190
+msgid "Email"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:125
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:129
+msgid "Your rating"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:138
+msgid "Rate&hellip;"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:139
+msgid "Perfect"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:140
+msgid "Good"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:141
+msgid "Average"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:142
+msgid "Not that bad"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:143
+msgid "Very poor"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:147
+msgid "Your review"
+msgstr ""
+
+#: includes\controls\product-tabs\reviews\template.php:154
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: includes\controls\search\search.php:7
+#: includes\theme-builder\breadcrumbs.php:160
+#: includes\theme-builder\replacer\base\SearchTemplateReplacer.php:50
+msgid "Search"
+msgstr ""
+
+#: includes\templates\passwordProtect\default-template.php:7
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: includes\templates\passwordProtect\default-template.php:8
+msgid "Password:"
+msgstr ""
+
+#: includes\templates\passwordProtect\default-template.php:8
+msgid "Enter"
+msgstr ""
+
+#: includes\theme-builder\breadcrumbs.php:47
+msgid "Home"
+msgstr ""
+
+#: includes\theme-builder\breadcrumbs.php:154
+msgid "Tag: "
+msgstr ""
+
+#: includes\theme-builder\breadcrumbs.php:157
+msgid "404 - Page not Found"
+msgstr ""
+
+#: includes\theme-builder\breadcrumbs.php:166
+#: processors\class-np-data-replacer.php:1168
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes\theme-builder\functions.php:604
+msgid "Nothing here"
+msgstr ""
+
+#: includes\theme-builder\functions.php:605
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:70
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:256
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:287
+msgid "Register"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:73
+msgid "Get New Password"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:104
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:124
+msgid "Username"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:106
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:126
+msgid "Username or Email Address"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:166
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:188
+msgid "Password"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:238
+msgid "Remember Me"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\LoginTemplateReplacer.php:253
+msgid "Lost Password"
+msgstr ""
+
+#: includes\theme-builder\replacer\base\SearchTemplateReplacer.php:34
+msgid "No search result found"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:81
+msgid "Product"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:83
+msgid "Price"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:85
+#: processors\replacer\Products\ProductItem.php:495
+msgid "Quantity"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:87
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:614
+#: includes\theme-builder\replacer\shop\CheckoutTemplateReplacer.php:94
+msgid "Subtotal"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:140
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:455
+msgid "Coupon:"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:142
+msgid "Coupon code"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:144
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:144
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:499
+msgid "Apply coupon"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:149
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:149
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:411
+msgid "Update cart"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:210
+msgid "Remove this item"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:425
+msgid "Continue shopping"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:485
+msgid "Coupon code."
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:584
+msgid "Cart totals"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:648
+#: includes\theme-builder\replacer\shop\CheckoutTemplateReplacer.php:102
+msgid "Total"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CartTemplateReplacer.php:683
+msgid "Proceed to checkout"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CheckoutTemplateReplacer.php:58
+msgid "Your order:"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CheckoutTemplateReplacer.php:333
+#: includes\theme-builder\replacer\shop\template-parts\order-button.php:10
+msgid "Place order"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\CheckoutTemplateReplacer.php:360
+msgid "Billing details:"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\cart-totals.php:20
+#: includes\theme-builder\replacer\shop\template-parts\cart-totals.php:21
+msgid "Shipping"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\cart-totals.php:40
+msgid "(estimated for %s)"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\payment.php:41
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\payment.php:41
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\payment.php:50
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: includes\theme-builder\replacer\shop\template-parts\payment.php:54
+#: includes\theme-builder\replacer\shop\template-parts\payment.php:54
+msgid "Update totals"
+msgstr ""
+
+#: options.php:73
+msgid "Nicepage Options"
+msgstr ""
+
+#: options.php:112
+msgid "Forms"
+msgstr ""
+
+#: options.php:112
+msgid "Form"
+msgstr ""
+
+#: options.php:125
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: processors\BaseController.php:124
+msgid "All"
+msgstr ""
+
+#: processors\BaseController.php:135
+msgid "Featured"
+msgstr ""
+
+#: processors\BaseController.php:229
+msgid "&#x3008;"
+msgstr ""
+
+#: processors\BaseController.php:230
+msgid "&#x3009;"
+msgstr ""
+
+#: processors\class-np-data-replacer.php:386
+msgid "Back"
+msgstr ""
+
+#: processors\class-np-data-replacer.php:1292
+msgid "Name, A to Z"
+msgstr ""
+
+#: processors\class-np-data-replacer.php:1293
+msgid "Name, Z to A"
+msgstr ""
+
+#: processors\class-np-data-replacer.php:1294
+msgid "Date, old to new"
+msgstr ""
+
+#: processors\class-np-data-replacer.php:1295
+msgid "Date, new to old"
+msgstr ""
+
+#: processors\replacer\Products\ProductItem.php:125
+msgid "Choose an option"
+msgstr ""
+
+#: processors\replacer\Products\ProductItem.php:520
+msgid "Qty"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Model\class-np-data-product.php:329
+#: processors\replacer\Products\Woocommerce\Model\class-np-data-product.php:362
+msgid "Description"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Model\class-np-data-product.php:334
+msgid "Reviews (%d)"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:89
+msgid "Default sorting"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:90
+msgid "Sort by popularity"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:91
+msgid "Sort by average rating"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:92
+msgid "Sort by latest"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:93
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: processors\replacer\Products\Woocommerce\Processor\WooProductItem.php:94
+msgid "Sort by price: high to low"
+msgstr ""
+
